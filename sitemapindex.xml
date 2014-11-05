@@ -5,15 +5,7 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <sitemap>
-  <loc>https://polmuz.me/es/galleries/rss.xml</loc>
-  <lastmod>2014-11-04</lastmod>
- </sitemap>
- <sitemap>
   <loc>https://polmuz.me/es/rss.xml</loc>
-  <lastmod>2014-11-04</lastmod>
- </sitemap>
- <sitemap>
-  <loc>https://polmuz.me/galleries/rss.xml</loc>
   <lastmod>2014-11-04</lastmod>
  </sitemap>
  <sitemap>
