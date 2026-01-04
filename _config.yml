@@ -1,0 +1,14 @@
+title: May contain traces of AI
+description: A blog about software development
+url: https://polmuz.github.io
+baseurl: ""
+
+theme: beautiful-jekyll-theme
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor

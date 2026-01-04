@@ -1,0 +1,7 @@
+_site/
+docs/
+vendor/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+.tool-versions
